@@ -1,19 +1,18 @@
 #first {
-	border: 20px solid red ;
-	border-radius: 5px ;
+	border: 2px solid red ;
+	border-radius: 1px ;
 }
 #firstpic1 {
-  width: 600px ;
+  width: auto; ;
 	height: 600px ;
 }
 body {
 	background-color: rgb(227, 227, 228) ;
+	text-decoration: none;
 }
 #text {
-		border: 20px solid red ;
-	border-radius: 5px ;
-	padding: 300px ;
-	margin-left: 100px;
+		border: 2px solid red ;
+	border-radius: 1px ;
 }
 
 #photo {
@@ -22,7 +21,7 @@ body {
 
 }
 #table1 {
-	border: 20px solid red ;
+	
 	height: 600px;
 	width: 600px;
 }
@@ -32,4 +31,14 @@ body {
 #tab2 {
 	border: 20px solid red ;
 	padding: 50px; 
+}
+#quote {
+	text-decoration: none;
+	padding-left: 200px ;
+	text-shadow: 3px 2px yellow ;
+	font-size: 30px ;
+	font-color: tomato ;
+}
+a{
+	text-decoration: none;
 }
