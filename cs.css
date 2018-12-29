@@ -24,6 +24,7 @@ body {
 	
 	height: 600px;
 	width: 600px;
+	margin :25px 100px 25px 100px; 
 }
 #tr1{
 	border-bottom : solid red
